@@ -6,28 +6,6 @@ Composer
 Cara install Laravel  terdiri dari empat langkah, yaitu:
 
 1.Masuk Command Prompt
-2.Masuk ke folder XAMPP :cd \xampp\htdocs
-3.Mulai proses instalasi Laravel :composer create-project --prefer-dist laravel/laravel install_laravel
-4.Cek instalasi Laravel di web browser :cd install_laravel, php artisan serve
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-link: https://www.niagahoster.co.id/blog/cara-install-laravel-di-windows/
-
-
-
+2.Masuk ke folder XAMPP : cd \xampp\htdocs
+3.Mulai proses instalasi Laravel : composer create-project --prefer-dist laravel/laravel install_laravel(untuk instal laravel)
+4.Cek instalasi Laravel di web browser : cd install_laravel(untuk masuk ke folder install_laravel), php artisan serve(untuk mengecek alamat laravel)
